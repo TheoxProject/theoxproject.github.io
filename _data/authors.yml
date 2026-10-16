@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 Theox:
   name:              Théo PUGIN-BRON
-  email:             theo.pugin-bron@epfl.ch
+  email:             theo.pb@sfr.fr
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
